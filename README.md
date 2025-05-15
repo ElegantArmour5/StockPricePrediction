@@ -2,6 +2,14 @@
 
 A simple and powerful web app built with [Streamlit](https://streamlit.io) that visualizes historical stock prices and forecasts the next 30 days using a **pretrained model** (Meta’s [Prophet](https://facebook.github.io/prophet/)).
 
+---
+
+## 🚀 Live Demo
+
+👉 [Try it now on Streamlit Cloud](https://stockpricepredictionprophet.streamlit.app/)
+
+---
+
 ## 🔮 Features
 
 - ✅ Live stock data via Yahoo Finance (`yfinance`)
